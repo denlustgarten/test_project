@@ -1,1 +1,1 @@
-update3 inz main
+update3 inz sq
